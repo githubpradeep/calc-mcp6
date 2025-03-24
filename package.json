@@ -1,11 +1,10 @@
 {
-      "name": "mcp-calculator",
+      "name": "@getflowdevs/mcp-calculator",
       "version": "1.0.0",
       "type": "module",
       "scripts": {
         "start": "node src/index.js",
-        "dev": "node --watch src/index.js",
-        "inspect": "npx -y @modelcontextprotocol/inspector node src/index.js"
+        "dev": "node --watch src/index.js"
       },
       "dependencies": {
         "@modelcontextprotocol/sdk": "^1.0.0",
