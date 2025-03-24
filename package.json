@@ -1,5 +1,5 @@
 {
-      "name": "@getflowdevs/mcp-calculator",
+      "name": "mcp-calculator",
       "version": "1.0.0",
       "type": "module",
       "scripts": {
